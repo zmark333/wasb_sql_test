@@ -1,0 +1,4 @@
+Employee: Alex Jacobson
+Items: So Many Drinks!
+Unit Price: 22.00
+Quantity: 18

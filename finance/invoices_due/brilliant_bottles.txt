@@ -1,0 +1,6 @@
+Invoice
+-------
+Company Name: Catering Plus
+Invoice Items: Champagne, Whiskey, Vodka, Gin, Rum, Beer, Wine.
+Invoice Amount: 2000
+Due Date: 2 months from now

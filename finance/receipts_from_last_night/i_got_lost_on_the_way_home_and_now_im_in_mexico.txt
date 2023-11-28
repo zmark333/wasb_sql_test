@@ -1,0 +1,4 @@
+Employee: Andrea Ghibaudi
+Items: Flights from Mexico back to New York
+Unit Price: 300
+Quantity: 1

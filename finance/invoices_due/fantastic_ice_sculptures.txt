@@ -1,0 +1,6 @@
+Invoice
+-------
+Company Name: Ice Ice Baby
+Invoice Items: Ice Luge, Lifesize ice sculpture of Umberto
+Invoice Amount: 4000
+Due Date: 6 months from now

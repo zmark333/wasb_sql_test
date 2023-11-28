@@ -1,0 +1,6 @@
+Invoice
+-------
+Company Name: Entertainment tonight
+Invoice Items: Portable Lazer tag, go carts, virtual darts, virtual shooting, puppies.
+Invoice Amount: 6000
+Due Date: 3 months from now

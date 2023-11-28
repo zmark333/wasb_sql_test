@@ -1,0 +1,6 @@
+Invoice
+-------
+Company Name: Dave's Discos
+Invoice Items: Dave, Dave Equipment
+Invoice Amount: 500
+Due Date: 1 month from now

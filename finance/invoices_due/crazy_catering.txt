@@ -1,0 +1,6 @@
+Invoice
+-------
+Company Name: Catering Plus
+Invoice Items: Pizzas, Burgers, Hotdogs, Cauliflour Wings, Caviar
+Invoice Amount: 1500
+Due Date: 3 months from now

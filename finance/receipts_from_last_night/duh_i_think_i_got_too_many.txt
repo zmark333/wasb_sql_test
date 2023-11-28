@@ -1,0 +1,4 @@
+Employee: Alex Jacobson
+Items: I bought everyone in the bar a drink!
+Unit Price: 13.00
+Quantity: 75

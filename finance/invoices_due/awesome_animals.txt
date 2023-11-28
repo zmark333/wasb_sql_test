@@ -1,0 +1,6 @@
+Invoice
+-------
+Company Name: Party Animals
+Invoice Items: Zebra, Lion, Giraffe, Hippo
+Invoice Amount: 6000
+Due Date: 3 months from now
