@@ -7,14 +7,14 @@ CREATE SCHEMA IF NOT EXISTS SEXI;
 -- Drop the EMPLOYEE table if it exists
 DROP TABLE IF EXISTS SEXI.EMPLOYEE;
 
--- Create the EMPLOYEE table with data using the VALUES clause, because HIVE is not part of the Catalogs so I can't use the 
+-- Create the EMPLOYEE table with data, casting employee_id and manager_id to TINYINT
 CREATE TABLE SEXI.EMPLOYEE AS
 SELECT
-    employee_id,
+    CAST(employee_id AS TINYINT) AS employee_id,
     first_name,
     last_name,
     job_title,
-    manager_id
+    CAST(manager_id AS TINYINT) AS manager_id
 FROM
 (
     VALUES
@@ -29,5 +29,5 @@ FROM
         (9, 'Andrea', 'Ghibaudi', 'MD NAM', 2)
 ) AS t (employee_id, first_name, last_name, job_title, manager_id);
 
--- Print it out the result
+-- Print out the result
 SELECT * FROM SEXI.EMPLOYEE;
